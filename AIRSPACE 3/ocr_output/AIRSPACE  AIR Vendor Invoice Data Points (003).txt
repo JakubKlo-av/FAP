@@ -1,0 +1,36 @@
+  1: === OCR: Full Page 1 (Real Positions) ===
+  2: Invoice
+  3:           AIRSPACE
+  4:                                                                                                                            #3003594
+  5:                                                                                                                                    9/3/2025
+  6:           Bill To                                      Remit Payment  To                          TOTAL
+  7:           Autoliv - Domestic                          Airspace Technologies, Inc
+  8:           7 World Trade Center                       PO Box 737032
+  9:           Klarabersviadukten  70                     Dallas, TX 75373-7032  USA
+ 10:           Stockholm  Stockholm  County  11120        (858) 263-1953
+ 11:           Sweden                                      remittance@airspace.com                                       1]            °
+ 12:                                                       Airspace ACH  Information:
+ 13:                                                       Bank  Name:  JPMorgan  Chase
+ 14:                                                       ABA  Number:  322271627                                        Due Date: 12/2/2025
+ 15:                                                       Account: Number:  866702282
+ 16:                                                       Account: Airspace Technologies, Inc.
+ 17:           Terms              Due Date          Order Number       Order References   Commodity         Order Source             PO#
+ 18:           Net 90             12/2/2025         Sales Order        PTN-947968        Other - Air bag     Order builder
+ 19:                                                #3003594                             product UN3268
+ 20:                                                                                      Class 9
+ 21:           Date              AWB               Tracking ID        Pickup Address     Delivery Address    Dims              POD
+ 22:           9/3/2025          00610679126       ATEPWZANTT        Autoliv Inc, 400     Weidmann  &       45.0*46.0*13.0in,  Delivered at Sep
+ 23:                                                                   South Depot       Winz GMBH,        98.0lbs           03 25 07 05 CEST
+ 24:                                                                   Drive, Ogden, UT,  Industriestr .5,                       and signed by
+ 25:                                                                   84404             Tor 9 BIS 11,                          company  stamp
+ 26:                                                                                      Eislingen, 73054                       in
+ 27:           Item                            Description                     Quantity                                                 Amount
+ 28:           Pickup                          SPECIAL RATE                    0.0                                                     $2,086.00
+ 29:                                                                                                             Subtotal             $2,086.00
+ 30:                                                                                                        Tax Total (%)
+ 31:                                                                                                                 Total            $2,086.00
+ 32:                                                                                                         Amount   Due             $2,086.00
+ 33:                                                                                                                                    1 of 1
+ 34: === End of Page 1 ===
+
+Total lines: 34

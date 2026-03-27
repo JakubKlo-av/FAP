@@ -1,0 +1,35 @@
+  1: === OCR: Full Page 1 (Real Positions) ===
+  2: Invoice
+  3:           AIRSPACE
+  4:                                                                                                                            #3104466
+  5:                                                                                                                                 10/17/2025
+  6:           Bill To                                      Remit Payment  To                          TOTAL
+  7:           Autoliv - Domestic                          Airspace Technologies, Inc
+  8:           7 World Trade Center                       PO Box 737032
+  9:           Klarabersviadukten  70                     Dallas, TX 75373-7032  USA
+ 10:           Stockholm  Stockholm  County  11120        (858) 263-1953
+ 11:           Sweden                                      remittance@airspace.com                                       1]            °
+ 12:                                                       Airspace ACH  Information:
+ 13:                                                       Bank  Name:  JPMorgan  Chase
+ 14:                                                       ABA  Number:  322271627                                        Due Date: 1/15/2026
+ 15:                                                       Account: Number:  866702282
+ 16:                                                       Account: Airspace Technologies, Inc.
+ 17:           Terms              Due Date          Order Number       Order References   Commodity         Order Source             PO#
+ 18:           Net 90             1/15/2026         Sales #3104466 Order        Allpress B.V.   Metals     Other - Other      Ops builder quote
+ 19:                                                                   A91669
+ 20:           Date              AWB               Tracking ID        Pickup Address     Delivery Address    Dims              POD
+ 21:           10/17/2025        07403959126       ATX2ZAWMRG        Allpress Metals     Autoliv AST, 9355    120.0*80.0*68.0c Delivered at Oct
+ 22:                                                                   B.V., Orionstraat   Airway Rd, Suite   m, 282.0kg         17 25 12 45 PDT
+ 23:                                                                   1, Tilburg, 5054     4, San Diego, CA,                      and signed by
+ 24:                                                                                      92154                                Angel  hiron in
+ 25:                                                                                                                            receiving
+ 26:           Item                            Description                     Quantity                                                 Amount
+ 27:           Pickup                          SPECIAL RATE                    0.0                                                     $2,075.00
+ 28:                                                                                                             Subtotal             $2,075.00
+ 29:                                                                                                        Tax Total (%)
+ 30:                                                                                                                 Total            $2,075.00
+ 31:                                                                                                         Amount   Due             $2,075.00
+ 32:                                                                                                                                    1 of 1
+ 33: === End of Page 1 ===
+
+Total lines: 33

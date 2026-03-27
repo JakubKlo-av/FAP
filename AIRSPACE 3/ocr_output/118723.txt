@@ -1,0 +1,37 @@
+  1: === OCR: Full Page 1 (Real Positions) ===
+  2: Invoice
+  3:           AIRSPACE
+  4:                                                                                                                            #3118723
+  5:                                                                                                                                 10/23/2025
+  6:           Bill To                                      Remit Payment  To                          TOTAL
+  7:           Autoliv - Domestic                          Airspace Technologies, Inc
+  8:           7 World Trade Center                       PO Box 737032
+  9:           Klarabersviadukten  70                     Dallas, TX 75373-7032  USA
+ 10:           Stockholm  Stockholm  County  11120        (858) 263-1953
+ 11:           Sweden                                      remittance@airspace.com                                       1            °
+ 12:                                                       Airspace ACH  Information:
+ 13:                                                       Bank  Name:  JPMorgan  Chase
+ 14:                                                       ABA  Number:  322271627                                        Due Date: 1/21/2026
+ 15:                                                       Account: Number:  866702282
+ 16:                                                       Account: Airspace Technologies, Inc.
+ 17:           Terms              Due Date          Order Number       Order References   Commodity         Order Source             PO#
+ 18:           Net 90             1/21/2026         Sales Order        ITW Automotive    Other -            Ops quote
+ 19:                                                #3118723          GMBH              Automotive Parts  builder
+ 20:                                                                   A91855
+ 21:           Date              AWB               Tracking ID        Pickup Address     Delivery Address    Dims              POD
+ 22:           10/23/2025        02003286032       ATOFWENMHE         ITW Automotive    AUTOLIV AST       120.0*80.0*80.0c  Delivered at Oct
+ 23:                                                                   GMBH,              DEPOT / CASAS     m, 112.0kg;       23 25 1450 PDT
+ 24:                                                                   Bahnhofstrasse    INT, 9355          120.0*80.0*80.0c  and signed by
+ 25:                                                                   50a,              AIRWAY  ROAD,      m, 112.0kg;        Rafael Medina q
+ 26:                                                                   Hodenhagen,       SUITE 4, SAN        120.0*80.0*80.0c  in receiving
+ 27:                                                                   29693              DIEGO, CA, 92154   _m, 111.0kg
+ 28:           Item                            Description                     Quantity                                                 Amount
+ 29:           Pickup                          SPECIAL RATE                    0.0                                                     $2,969.00
+ 30:                                                                                                             Subtotal             $2,969.00
+ 31:                                                                                                        Tax Total (%)
+ 32:                                                                                                                 Total            $2,969.00
+ 33:                                                                                                         Amount   Due             $2,969.00
+ 34:                                                                                                                                    1 of 1
+ 35: === End of Page 1 ===
+
+Total lines: 35
